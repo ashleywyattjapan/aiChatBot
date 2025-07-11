@@ -102,6 +102,3 @@ https://github.com/user-attachments/assets/bfd41fa5-b5af-4550-b525-569adade4510
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
