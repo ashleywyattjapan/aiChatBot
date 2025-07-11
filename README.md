@@ -89,8 +89,8 @@ https://github.com/user-attachments/assets/bfd41fa5-b5af-4550-b525-569adade4510
 | Light Mode                                               | Dark Mode                                              |
 | -------------------------------------------------------- | ------------------------------------------------------ |
 | ![Light Mode Screenshot](<img width="1289" height="775" alt="Screenshot 2025-07-11 at 15 25 43" src="https://github.com/user-attachments/assets/502bb832-89ab-4b58-9642-57a3dee135cc" />
-) | ![Dark Mode Screenshot](https://github.com/user-attachments/assets/19095548-b43a-4b0b-babe-044e11ad38df>
-) |
+ ![Dark Mode Screenshot] img width="1289" height="775" alt="Screenshot 2025-07-11 at 15 25 43" src="[https://github.com/user-attachments/assets/502bb832-89ab-4b58-9642-57a3dee135cc](https://github.com/user-attachments/assets/19095548-b43a-4b0b-babe-044e11ad38df)"
+
 
 ---
 
